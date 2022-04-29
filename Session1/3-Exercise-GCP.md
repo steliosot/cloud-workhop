@@ -14,5 +14,8 @@ Your tasks are:
    *  2 VCPU, 2 GB memory and 20 GB hard disk (balanced persistent disk)
    * Operating System: Ubuntu 18.04 LTS
    * Allow HTTP traffic
-   * Setup a startup script to update the OS
-   * 
+   * Setup a startup script to update the OS and install apache2
+     * apt install apache2
+   * Open port: 3000
+   * Configure apache2 to port 3000
+   * Deploy a simple HTML file
