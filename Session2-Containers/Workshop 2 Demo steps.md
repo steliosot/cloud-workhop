@@ -166,7 +166,7 @@ $ pico Dockerfile
 FROM ubuntu:latest
 RUN apt-get update -y
 RUN apt-get install software-properties-common -y
-RUN apt-get install python3.7 -y
+RUN apt-get install python3 -y
 ADD . /app
 WORKDIR /app
 CMD ["python3", "count.py"]
