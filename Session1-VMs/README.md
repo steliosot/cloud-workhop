@@ -6,6 +6,10 @@ Today's lab session is essential to have a solid start with cloud deployments. M
 
 Lab 1 part 1 focuses on how to:
 
+**TODO:**   
+
+Add GCP team section - invite members with owner / editor / reader rights
+
 **Lab 1.1 Part A**    Connect to your Virtual Machine (VM) in the Google Cloud Platform.
 
 **Lab 1.1 Part B**    Learn how to run Linux commands using the command-line interface.
